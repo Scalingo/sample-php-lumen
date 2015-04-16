@@ -1,3 +1,10 @@
+## Hosting on Scalingo
+
+You have nothing to do to host your application on Scalingo, we'll detect
+the Lumen Framework and setup the configuration for it. Just push your code.
+
+[Scalingo Homepage](https://scalingo.com)
+
 ## Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
