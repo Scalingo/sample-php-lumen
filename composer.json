@@ -7,7 +7,7 @@
     "config": {
       "platform": {
         "preferred-install": "dist",
-        "php": ">=7.3",
+        "php": ">=7.3"
       },
       "sort-packages": true,
       "optimize-autoloader": true
