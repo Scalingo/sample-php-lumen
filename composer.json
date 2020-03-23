@@ -8,9 +8,9 @@
       "platform": {
         "preferred-install": "dist",
         "php": ">=7.3",
-        "sort-packages": true,
-        "optimize-autoloader": true
       }
+      "sort-packages": true,
+      "optimize-autoloader": true
     },
     "require": {
         "php": ">=7.1.3",
